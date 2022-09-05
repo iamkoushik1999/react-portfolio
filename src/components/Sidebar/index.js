@@ -1,7 +1,7 @@
 import './index.scss'
 import { Link } from 'react-router-dom'
 import { NavLink } from 'react-router-dom'
-import LogoK from '../../assets/images/K.png'
+import LogoK from '../../assets/images/outline.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 // import LogoSubtitle from '../../assets/images/K-logo-s.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
