@@ -1,8 +1,9 @@
 import './index.scss'
 import { Link } from 'react-router-dom'
 import { NavLink } from 'react-router-dom'
-import LogoS from '../../assets/images/logo-s.png'
+import LogoK from '../../assets/images/K.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
+// import LogoSubtitle from '../../assets/images/K-logo-s.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faEnvelope,
@@ -23,7 +24,7 @@ const Sidebar = () => {
   return (
     <div className="nav-bar">
       <Link className="logo" to="/">
-        <img src={LogoS} alt="logo" />
+        <img src={LogoK} alt="logo" />
         <img className="sub-logo" src={LogoSubtitle} alt="sub" />
       </Link>
       <nav>
