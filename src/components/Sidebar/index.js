@@ -60,7 +60,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/KoushikDutta1999"
+            href="https://github.com/iamkoushik1999"
             target="_blank"
             rel="noreferrer"
           >
@@ -69,7 +69,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://twitter.com/iamkoushikdutta"
+            href="https://twitter.com/iamkoushik1999"
             target="_blank"
             rel="noreferrer"
           >
@@ -78,7 +78,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.facebook.com/iamkoushikdutta"
+            href="https://www.facebook.com/iamkoushik1999"
             target="_blank"
             rel="noreferrer"
           >
@@ -87,7 +87,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.instagram.com/iamkoushikdutta_1999/"
+            href="https://www.instagram.com/iamkoushik1999/"
             target="_blank"
             rel="noreferrer"
           >
@@ -96,7 +96,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://koushikdutta1999.wixsite.com/koushikdutta1999"
+            href="https://iamkoushik1999.wixsite.com/iamkoushik1999"
             target="_blank"
             rel="noreferrer"
           >
